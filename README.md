@@ -34,3 +34,17 @@ I think we can follow two papers [Stock market analysis using social networks]("
 
 # Problems
 I personally think reddit data might be very difficult to handle with automated methods. For now, we are still lacking in statistical methods to handle those data.
+
+It's weird on Github some links are not clickable:
+
+The data for user can be found here:
+
+https://www.reddit.com/r/datasets/comments/3bxlg7/i_have_every_publicly_available_reddit_comment/
+
+The two papers are here:
+
+https://dl.acm.org/doi/10.1145/3167918.3167967
+
+https://dl-acm-org.proxy.uchicago.edu/doi/10.1145/3078714.3078720
+
+
